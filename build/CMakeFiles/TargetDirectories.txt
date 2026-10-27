@@ -1,4 +1,0 @@
-/home/rajeev/projects/alien-planet/build/CMakeFiles/glad.dir
-/home/rajeev/projects/alien-planet/build/CMakeFiles/alien-planet.dir
-/home/rajeev/projects/alien-planet/build/CMakeFiles/edit_cache.dir
-/home/rajeev/projects/alien-planet/build/CMakeFiles/rebuild_cache.dir
