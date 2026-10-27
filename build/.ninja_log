@@ -1,0 +1,5 @@
+# ninja log v7
+1	62	1793096708407050766	CMakeFiles/glad.dir/external/glad/src/gl.c.o	df39fd54be9e72a0
+62	95	1793096708469052950	libglad.a	ec919b78fe45e77a
+1	213	1793099668842305229	CMakeFiles/alien-planet.dir/src/main.cpp.o	27b08918daf1e3ce
+214	266	1793099669055705380	alien-planet	25c7b7076ac9c710
